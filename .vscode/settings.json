@@ -1,6 +1,8 @@
 {
     "cSpell.words": [
         "hloi",
+        "NAMENODE",
+        "printdata"
     ],
     "files.associations": {
         "new": "cpp",
